@@ -1,0 +1,1 @@
+<?php echo "<h1>The sync is working!</h1>"; ?>
